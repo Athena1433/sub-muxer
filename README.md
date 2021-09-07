@@ -3,7 +3,7 @@ Telegram bot to mux subtitle with video.
 
 ## Deploy the bot on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Athena1433/sub-muxer)
 
 ## Features
 * Softmux subtitle with video
